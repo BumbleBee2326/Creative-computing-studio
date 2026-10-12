@@ -3,5 +3,4 @@ Creative computing year1
 
 
 BROSKIIII this is the repository for the ***ccs module*** 
-
-![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvLUiZRPor2DYdpk-2KQqwW-hUVFACrhaGe-h3ON6Frw&s=10)
+![](https://i.pinimg.com/736x/84/94/4a/84944acb949ca87fe9151bf5d86ba16e.jpg)
