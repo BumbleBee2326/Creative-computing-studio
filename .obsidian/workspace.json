@@ -20,6 +20,16 @@
               "icon": "lucide-file",
               "title": "README"
             }
+          },
+          {
+            "id": "d828c2d968a319d2",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
           }
         ]
       }
@@ -189,5 +199,7 @@
     }
   },
   "active": "57a853060b10fb37",
-  "lastOpenFiles": []
+  "lastOpenFiles": [
+    "README.md"
+  ]
 }
