@@ -13,12 +13,22 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "2026-10-12.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "2026-10-12"
+            }
+          },
+          {
+            "id": "e000898d25bc5584",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           },
           {
@@ -31,7 +41,8 @@
               "title": "New tab"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -109,7 +120,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +138,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -171,7 +180,6 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -198,10 +206,13 @@
       "bases:Create new base": false
     }
   },
-  "active": "57a853060b10fb37",
+  "active": "e000898d25bc5584",
   "lastOpenFiles": [
+    "SHELL Scripts.md",
     "2026-10-12.md",
-    "Untitled.canvas",
-    "README.md"
+    "web standards.md",
+    "README.md",
+    "digital audio.md",
+    "Untitled.canvas"
   ]
 }
